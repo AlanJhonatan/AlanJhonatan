@@ -1,3 +1,6 @@
+<!-- Gengar cycle -->
+<img  align="right" width="250" height="250" src="https://user-images.githubusercontent.com/41169099/156685092-009abaef-f41b-4b73-8887-bb43de8daa39.gif" />
+
 ## About me
 
 - 🥳 22 yo
@@ -11,9 +14,7 @@
 
 ## Stats
 <div style="display: inline_block"><br>
- 
- <!-- Gengar cycle -->
-<img  align="right" width="250" height="250" src="https://user-images.githubusercontent.com/41169099/156685092-009abaef-f41b-4b73-8887-bb43de8daa39.gif" />
+
 
  <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjhonatan&layout=compact&hide=jupyter%20notebook&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
