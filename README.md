@@ -61,6 +61,7 @@
  
  ##
 
-Random curiosity
-- I love Gengar <img width="30" height="40" src="https://user-images.githubusercontent.com/41169099/156684007-5e69e5b0-86e5-451e-8fab-bcddca4c6e34.gif" />
+## Random curiosity
+
+- I love Gengar <img width="40" height="40" src="https://user-images.githubusercontent.com/41169099/156684007-5e69e5b0-86e5-451e-8fab-bcddca4c6e34.gif" />
 
