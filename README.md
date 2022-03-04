@@ -65,6 +65,10 @@
 <div align="left" style="display: inline_block"><br>
  <!-- Vscode -->
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ 
+ <!-- GIT -->
+ <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 </div>
 
 
