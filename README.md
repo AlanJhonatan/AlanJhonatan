@@ -11,22 +11,9 @@
 - 🧐 Continuous learning
 - 👻 _My favorite pokémon is gengar_
 
-
-## Stats
-<div style="display: inline_block"><br>
-
-
- <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjhonatan&layout=compact&hide=jupyter%20notebook&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
- 
- <!-- General Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=alanjhonatan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
- 
-</div>
- 
 ## Techs
 
-<div style="display: inline_block"><br>
+<div align="left" style="display: block"><br>
  <!-- HTML -->
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -60,7 +47,7 @@
 
 ## Databases
 
-<div style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br> 
  <!-- Mongo DB -->
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
@@ -75,7 +62,16 @@
 
 ## Tools
 
-<div style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br>
  <!-- Vscode -->
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+
+
+## Stats
+
+<!-- Top Languages -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjhonatan&layout=compact&hide=jupyter%20notebook&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+<!-- General Stats -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=alanjhonatan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
