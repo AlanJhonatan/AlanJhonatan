@@ -1,3 +1,5 @@
+## About me
+
 - 🥳 22 yo
 - 🎓 Gratuated in Game Development, but actually Fullstack Developer
 - 💛 Javascript
@@ -6,6 +8,8 @@
 - 🧐 Continuous learning
 - 👻 _My favorite pokémon is gengar_
 
+
+## Stats
 <div style="display: inline_block"><br>
  
  <!-- Gengar cycle -->
