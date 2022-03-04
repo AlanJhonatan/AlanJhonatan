@@ -1,10 +1,9 @@
-### Hi there, I' am Alan Jhonatan 👋
-
-Hi, i'am Alan, 22 years old. 
-- 💛 Javascript,
-- 💙 Typescript,
-- 💚 NodeJS,
-- 🧐 Continuous learning,
+- 🥳 22 yo
+- 🎓 Gratuated in Game Development, but actually Fullstack Developer
+- 💛 Javascript
+- 💙 Typescript
+- 💚 NodeJS
+- 🧐 Continuous learning
 - 👻 _My favorite pokémon is gengar_
 
 <div style="display: inline_block"><br>
