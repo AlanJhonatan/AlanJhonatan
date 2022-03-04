@@ -34,6 +34,10 @@
 
  <!-- Next JS -->
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+ 
+ <!-- Jest -->
+ <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
 
  <!-- GraphQL -->
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
@@ -68,6 +72,12 @@
  
  <!-- GIT -->
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+ <!-- Github -->
+ <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+ <!-- Gitlab -->
+ <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 
 </div>
 
