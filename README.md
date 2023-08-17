@@ -80,12 +80,3 @@
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 
 </div>
-
-
-## Stats
-
-<!-- Top Languages -->
-<img align="left" max-width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjhonatan&layout=compact&hide=jupyter%20notebook&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
-<!-- General Stats -->
-<img align="right" max-width="320px" src="https://github-readme-stats.vercel.app/api/?username=alanjhonatan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
