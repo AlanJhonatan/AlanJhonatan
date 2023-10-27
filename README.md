@@ -3,7 +3,7 @@
 
 ## About me
 
-- 🥳 23 yo (October 16)
+- 🥳 24 yo (October 16)
 - 🎓 Gratuated in Game Development, but actually Fullstack Developer
 - 💛 Javascript
 - 💙 Typescript
