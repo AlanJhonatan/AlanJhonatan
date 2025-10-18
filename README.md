@@ -1,14 +1,12 @@
-<!-- Gengar cycle -->
-<img  align="right" width="250" height="250" src="https://user-images.githubusercontent.com/41169099/156685092-009abaef-f41b-4b73-8887-bb43de8daa39.gif" />
+# Hey ! I'm Alan, welcome !
 
 ## About me
 
-- 🥳 24 yo (October 16)
+- 🥳 26 yo (October 16)
+- 👨‍💻 5+ years of experience
 - 🎓 Gratuated in Game Development, but actually Fullstack Developer
-- 💛 Javascript
-- 💙 Typescript
-- 💚 NodeJS
-- 🧐 Continuous learning
+- 💛 Javascript/Typescript/NodeJS
+- 📝 Continuous learning
 - 👻 _My favorite pokémon is gengar_
 
 ## Techs
