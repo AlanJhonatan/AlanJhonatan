@@ -1,5 +1,5 @@
 # Hi, I'm Alan Jhonatan 👋
-### Fullstack Software Engineer | Backend Specialist | Infrastructure Enthusiast
+### Fullstack Software Engineer | Infrastructure | AI-Integrations
 
 With **over 5 years of experience**, I specialize in building scalable, high-performance applications using the JavaScript/TypeScript ecosystem. My focus lies at the intersection of **Clean Architecture**, **TDD**, and **Cloud-Native Infrastructure**.
 
