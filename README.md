@@ -1,14 +1,14 @@
 # Hi, I'm Alan França 👋
 ### Senior Fullstack Software Engineer | Infrastructure | AI-Integrations
 
-With **6+ years of experience**, located at SP - Brazil, I specialize in building scalable, high-performance applications using the JavaScript/TypeScript ecosystem. My focus lies at the intersection of **Clean Architecture**, **TDD**, and **Cloud-Native Infrastructure**.
+With **6+ years of experience**, located at ![Location](https://img.shields.io/badge/São_Paulo-Brazil-E0234E?style=flat-square&logo=googlemaps&logoColor=white), I specialize in building scalable, high-performance applications using the JavaScript/TypeScript ecosystem. My focus lies at the intersection of **Clean Architecture**, **TDD**, and **Cloud-Native Infrastructure**.
 
 ---
 
 ### 🚀 Quick Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanJhonatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Alan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJhonatan&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=AlanJhonatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Alan's GitHub Stats" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=AlanJhonatan&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
