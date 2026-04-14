@@ -1,5 +1,5 @@
 # Hi, I'm Alan França 👋
-### Senior Fullstack Software Engineer | Infrastructure | AI-Integrations
+### Senior Fullstack Developer | Software Engineer | Infrastructure | AI-Integrations
 
 With **6+ years of experience**, located at ![Location](https://img.shields.io/badge/São_Paulo-Brazil-E0234E?style=flat-square&logo=googlemaps&logoColor=white), I specialize in building scalable, high-performance applications using the JavaScript/TypeScript ecosystem. My focus lies at the intersection of **Clean Architecture**, **TDD**, and **Cloud-Native Infrastructure**.
 
