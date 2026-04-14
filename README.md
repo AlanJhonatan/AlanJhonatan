@@ -7,8 +7,8 @@ With **6+ years of experience**, located at SP - Brazil, I specialize in buildin
 
 ### 🚀 Quick Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanjhonatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Alan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjhonatan&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanJhonatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Alan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJhonatan&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
@@ -27,15 +27,15 @@ With **6+ years of experience**, located at SP - Brazil, I specialize in buildin
 
 ### 🌟 Featured Projects
 
-#### 🏗️ [ignite-design-system](https://github.com/alanjhonatan/ignite-design-system)
+#### 🏗️ [ignite-design-system](https://github.com/AlanJhonatan/ignite-design-system)
 *Robust Design System architecture including Design Tokens, Accessible React Components, and Storybook documentation in a high-performance monorepo.*
 - **Tech:** React, Storybook, Stitches, Radix UI, TurboRepo.
 
-#### ⚖️ [k8s-autoscaling-demo](https://github.com/alanjhonatan/k8s-autoscaling-demo)
+#### ⚖️ [k8s-autoscaling-demo](https://github.com/AlanJhonatan/k8s-autoscaling-demo)
 *Full showcase of Kubernetes Horizontal Pod Autoscaling (HPA) logic, including load testing and infrastructure as code.*
 - **Tech:** Node.js, Kubernetes, Terraform, Nginx Ingress, k6, Minikube.
 
-#### 🛡️ [node-tdd-clean-arch-principles](https://github.com/alanjhonatan/node-tdd-clean-arch-principles)
+#### 🛡️ [node-tdd-clean-arch-principles](https://github.com/AlanJhonatan/node-tdd-clean-arch-principles)
 *A deep dive into software engineering excellence: implementing Clean Architecture, SOLID, and Design Patterns through strict TDD.*
 - **Tech:** TypeScript, Jest, TDD, Clean Architecture.
 
@@ -43,12 +43,12 @@ With **6+ years of experience**, located at SP - Brazil, I specialize in buildin
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/alanjhonatan](https://www.linkedin.com/in/alanjhonatan/)
+- **LinkedIn:** [linkedin.com/in/AlanJhonatan](https://www.linkedin.com/in/AlanJhonatan/)
 - **Email:** [alan.amorim.franca@gmail.com](mailto:alan.amorim.franca@gmail.com)
 - **Soccer Team:** 🦅 Corinthians
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanjhonatan&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanJhonatan&theme=dracula" alt="GitHub Streak" />
 </div>
