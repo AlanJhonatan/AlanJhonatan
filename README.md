@@ -7,8 +7,8 @@ With **6+ years of experience**, located at ![Location](https://img.shields.io/b
 
 ### 🚀 Quick Stats
 <div align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=AlanJhonatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Alan's GitHub Stats" />
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=AlanJhonatan&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanJhonatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Alan's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanJhonatan&layout=compact&theme=dracula&hide=html,css&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
