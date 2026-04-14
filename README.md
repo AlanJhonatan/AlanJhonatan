@@ -1,74 +1,54 @@
-# Hey ! I'm Alan, welcome !
+# Hi, I'm Alan Jhonatan 👋
+### Fullstack Software Engineer | Backend Specialist | Infrastructure Enthusiast
 
-## About me
+With **over 5 years of experience**, I specialize in building scalable, high-performance applications using the JavaScript/TypeScript ecosystem. My focus lies at the intersection of **Clean Architecture**, **TDD**, and **Cloud-Native Infrastructure**.
 
-- 🥳 26 yo (October 16)
-- 👨‍💻 5+ years of experience
-- 🎓 Gratuated in Game Development, but actually Fullstack Developer
-- 💛 Javascript/Typescript/NodeJS
-- 📝 Continuous learning
-- 👻 _My favorite pokémon is gengar_
+---
 
-## Techs
-
-<div align="left" style="display: block"><br>
- <!-- Javascript -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
- <!-- Typescript -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
- <!-- Node JS -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
- <!-- React JS -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
- <!-- Next JS -->
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
- 
- <!-- Jest -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-
-
- <!-- GraphQL -->
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-
- <!-- Docker -->
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-
- <!-- Firebase -->
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+### 🚀 Quick Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanjhonatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Alan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjhonatan&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
 </div>
 
-## Databases
+---
 
-<div align="left" style="display: inline_block"><br> 
- <!-- Mongo DB -->
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+### 🛠️ Tech Stack
 
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases/ORMs** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Messaging & Search** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
 
- <!-- PostgreSQL -->
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+---
 
+### 🌟 Featured Projects
 
- <!-- Mysql -->
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+#### 🏗️ [ignite-design-system](https://github.com/alanjhonatan/ignite-design-system)
+*Robust Design System architecture including Design Tokens, Accessible React Components, and Storybook documentation in a high-performance monorepo.*
+- **Tech:** React, Storybook, Stitches, Radix UI, TurboRepo.
 
-## Tools
+#### ⚖️ [k8s-autoscaling-demo](https://github.com/alanjhonatan/k8s-autoscaling-demo)
+*Full showcase of Kubernetes Horizontal Pod Autoscaling (HPA) logic, including load testing and infrastructure as code.*
+- **Tech:** Node.js, Kubernetes, Terraform, Nginx Ingress, k6, Minikube.
 
-<div align="left" style="display: inline_block"><br>
- <!-- Vscode -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
- <!-- GIT -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
- <!-- Github -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+#### 🛡️ [node-tdd-clean-arch-principles](https://github.com/alanjhonatan/node-tdd-clean-arch-principles)
+*A deep dive into software engineering excellence: implementing Clean Architecture, SOLID, and Design Patterns through strict TDD.*
+- **Tech:** TypeScript, Jest, TDD, Clean Architecture.
 
- <!-- Gitlab -->
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+---
 
+### 📫 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/alanjhonatan](https://www.linkedin.com/in/alanjhonatan/)
+- **Email:** [alan.amorim.franca@gmail.com](mailto:alan.amorim.franca@gmail.com)
+- **Favorite Pokémon:** 👻 Gengar (Because a bit of shadow makes the light brighter!)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanjhonatan&theme=dracula" alt="GitHub Streak" />
 </div>
