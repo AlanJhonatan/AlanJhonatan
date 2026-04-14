@@ -1,7 +1,7 @@
-# Hi, I'm Alan Jhonatan 👋
-### Fullstack Software Engineer | Infrastructure | AI-Integrations
+# Hi, I'm Alan França 🇧🇷 (SP - Brazil) 👋
+### Senior Fullstack Software Engineer | Infrastructure | AI-Integrations
 
-With **over 5 years of experience**, I specialize in building scalable, high-performance applications using the JavaScript/TypeScript ecosystem. My focus lies at the intersection of **Clean Architecture**, **TDD**, and **Cloud-Native Infrastructure**.
+With **6+ years of experience**, I specialize in building scalable, high-performance applications using the JavaScript/TypeScript ecosystem. My focus lies at the intersection of **Clean Architecture**, **TDD**, and **Cloud-Native Infrastructure**.
 
 ---
 
@@ -45,7 +45,7 @@ With **over 5 years of experience**, I specialize in building scalable, high-per
 
 - **LinkedIn:** [linkedin.com/in/alanjhonatan](https://www.linkedin.com/in/alanjhonatan/)
 - **Email:** [alan.amorim.franca@gmail.com](mailto:alan.amorim.franca@gmail.com)
-- **Favorite Pokémon:** 👻 Gengar (Because a bit of shadow makes the light brighter!)
+- **Soccer Team:** 🦅 Corinthians
 
 ---
 
